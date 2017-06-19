@@ -1,2 +1,3 @@
 def solution(dic):
-    """Enter Code Here"""
+    return sorted(dic.keys())
+    
